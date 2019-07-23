@@ -1,0 +1,4 @@
+add_lunch_combo tub_guacamole-userdebug
+add_lunch_combo tub_guacamole-user
+add_lunch_combo tub_guacamole-eng
+add_lunch_combo tub_guacamole
