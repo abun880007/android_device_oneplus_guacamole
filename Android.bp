@@ -1,2 +1,5 @@
+subdirs = [
+    "vibrator",
+]
 soong_namespace {
 }

@@ -21,4 +21,6 @@ PRODUCT_PACKAGES += \
 # Device init scripts
 PRODUCT_PACKAGES += \
     fstab.qcom \
-    init.display.guacamole.rc
+    init.display.guacamole.rc \
+    vendor.qti.hardware.wifi@1.0 \
+    android.hardware.vibrator@1.2-service.oneplus7pro
