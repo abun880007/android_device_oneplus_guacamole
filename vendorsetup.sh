@@ -2,3 +2,10 @@ add_lunch_combo tub_guacamole-userdebug
 add_lunch_combo tub_guacamole-user
 add_lunch_combo tub_guacamole-eng
 add_lunch_combo tub_guacamole
+add_lunch_combo tub_guacamoleg-userdebug
+add_lunch_combo tub_guacamoleg-user
+add_lunch_combo tub_guacamoleg-eng
+add_lunch_combo tub_guacamoleg
+add_lunch_combo tub_oneplus7pro-user
+add_lunch_combo tub_oneplus7pro-userdebug
+add_lunch_combo tub_oneplus7pro-eng
