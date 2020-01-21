@@ -5,4 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/bliss_guacamole.mk
+    $(LOCAL_DIR)/tub_guacamole.mk
+
+COMMON_LUNCH_CHOICES := \
+    tub_guacamole-user \
+    tub_guacamole-userdebug \
+    tub_guacamole-eng
