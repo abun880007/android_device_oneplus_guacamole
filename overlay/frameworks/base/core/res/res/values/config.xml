@@ -260,5 +260,8 @@
 
     <!-- Slow brightness animation ramp rate in brightness units per second-->
     <integer translatable="false" name="config_brightness_ramp_rate_slow">60</integer>
+	
+	<!-- Whether to use in-built Screen Record service -->
+	<bool name="config_showScreenRecord">true</bool>
 
 </resources>
