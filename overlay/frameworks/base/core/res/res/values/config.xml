@@ -261,9 +261,6 @@
     <!-- Slow brightness animation ramp rate in brightness units per second-->
     <integer translatable="false" name="config_brightness_ramp_rate_slow">60</integer>
 	
-    <!-- Whether to use in-built Screen Record service -->
-    <bool name="config_showScreenRecord">true</bool>
-	
     <!-- System info -->
     <string name="config_sysCPUTemp">/sys/class/thermal/thermal_zone0/temp</string>
     <string name="config_sysBatteryTemp">/sys/class/power_supply/battery/temp</string>
