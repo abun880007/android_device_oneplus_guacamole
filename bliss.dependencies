@@ -21,6 +21,6 @@
    "remote":      "github",
    "repository":  "BlissRoms-Devices/proprietary_vendor_oneplus",
    "target_path": "vendor/oneplus",
-   "revision":    "q"
+   "revision":    "q2"
   }
 ]
